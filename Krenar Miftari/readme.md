@@ -1,0 +1,1 @@
+Un jom Krenar Miftari, ne folder mund te gjeni CV time.

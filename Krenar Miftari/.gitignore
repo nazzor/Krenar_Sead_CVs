@@ -1,2 +1,4 @@
+.gitignore
 /user.png
 /user_icon.jpeg
+/passwords.txt
