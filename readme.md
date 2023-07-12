@@ -1,0 +1,1 @@
+Ketu i gjeni CV e Krenar Miftari dhe Sead Ibrahimi te punuara ne HTML
